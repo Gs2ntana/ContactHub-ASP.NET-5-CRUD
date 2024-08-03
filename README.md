@@ -15,6 +15,10 @@ Este projeto é um sistema de cadastro de usuários que permite criar, ler, atua
 
 ## Histórico de Versões
 
+### Versão 1.1 - 2024-07-30
+- Adicionado CRUD de Usuários
+
+  
 ### Versão 1.0 - 2024-07-30
 - Adicionado CRUD de contatos.
 - Adicionado Design inicial
