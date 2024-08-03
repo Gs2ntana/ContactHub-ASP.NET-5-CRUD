@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\An\\source\\repos\\ControleDeContatos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE30093C-04D5-4502-8AA0-01EC3480F76A}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\an\\source\\repos\\controledecontatos\\controledecontatos\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE30093C-04D5-4502-8AA0-01EC3480F76A}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE30093C-04D5-4502-8AA0-01EC3480F76A}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\an\\source\\repos\\controledecontatos\\controledecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE30093C-04D5-4502-8AA0-01EC3480F76A}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE30093C-04D5-4502-8AA0-01EC3480F76A}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\an\\source\\repos\\controledecontatos\\controledecontatos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{FE30093C-04D5-4502-8AA0-01EC3480F76A}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{FE30093C-04D5-4502-8AA0-01EC3480F76A}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\an\\source\\repos\\controledecontatos\\controledecontatos\\views\\usuario\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE30093C-04D5-4502-8AA0-01EC3480F76A}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\usuario\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,39 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\Index.cshtml",
-              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Contato\\Index.cshtml",
-              "ToolTip": "C:\\Users\\An\\source\\repos\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\Index.cshtml",
-              "RelativeToolTip": "ControleDeContatos\\Views\\Contato\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAdAAAA",
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\ControleDeContatos\\ControleDeContatos\\Views\\Usuario\\Criar.cshtml",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Usuario\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\ControleDeContatos\\ControleDeContatos\\Views\\Usuario\\Criar.cshtml",
+              "RelativeToolTip": "ControleDeContatos\\Views\\Usuario\\Criar.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-31T12:21:36.444Z",
+              "WhenOpened": "2024-08-03T13:16:27.024Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\ControleDeContatos\\ControleDeContatos\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "ControleDeContatos\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\An\\source\\repos\\ControleDeContatos\\ControleDeContatos\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "ControleDeContatos\\wwwroot\\js\\site.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-31T12:21:01.393Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\ControleDeContatos\\ControleDeContatos\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\An\\source\\repos\\ControleDeContatos\\ControleDeContatos\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ControleDeContatos\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-31T12:19:26.29Z"
             }
           ]
         }
